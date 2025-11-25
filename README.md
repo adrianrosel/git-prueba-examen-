@@ -7,5 +7,6 @@ Hola que tal esto es un parrafo de introduccion basico
     * estas
     * amigo
 * Adios 
+* buongiorno 
 
 ``Este es un comentario de la rama 2``
