@@ -9,4 +9,10 @@ Hola que tal esto es un parrafo de introduccion basico
 * Adios 
 * buongiorno 
 
+ rama2
 ``Este es un comentario de la rama 2``
+
+``Este comentario no se si es visible en el readme o no, es una prueba``
+
+Este texto es de la rama 1
+ main
